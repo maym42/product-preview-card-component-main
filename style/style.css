@@ -34,7 +34,7 @@ main {
 .featurePic {
   border-radius: 0.5em 0.5em 0 0;
   /*image*/
-  background-image: url("/images/image-product-mobile.jpg");
+  background-image: url("images/image-product-mobile.jpg");
   background-position: center top;
   background-repeat: no-repeat;
   background-size: cover;
@@ -111,7 +111,7 @@ main {
 #iconCart {
   display: inline-block;
   /*image*/
-  background-image: url("/images/icon-cart.svg");
+  background-image: url("images/icon-cart.svg");
   background-position: center;
   background-repeat: no-repeat;
   /*size*/
